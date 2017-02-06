@@ -1,0 +1,14 @@
+{
+  "name": "react_materialui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basith Kunimal",
+  "license": "MIT",
+  "dependencies": {
+    "material-ui": "^0.16.7"
+  }
+}
